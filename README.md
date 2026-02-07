@@ -4,7 +4,7 @@ This is a simple interactive calculator created using **HTML, CSS, and JavaScrip
 It performs basic arithmetic operations and has a clean, user-friendly interface.
 
 ## Live Demo
-https://YOUR-GITHUB-USERNAME.github.io/simple-calculator/
+https://github.com/lalitha-70436/simple-interactive-calculator
 
 ## Output Screenshot
 ![Calculator Output](screenshot.png)
